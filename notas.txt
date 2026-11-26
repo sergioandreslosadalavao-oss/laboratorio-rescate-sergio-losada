@@ -1,4 +1,0 @@
-Línea 1: Git guarda el historial del proyecto.
-Línea 2: Cada commit es una manera de mandar una carta del proyecto.
-Línea 3: Las ramas permiten trabajar sin dañar main.
-Linea 4: Los commits tienen jeraquia.
